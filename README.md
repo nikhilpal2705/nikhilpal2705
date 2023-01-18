@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+Hi there 👋
+  <br/><br/>
 
 <!--
 **nikhilpal2705/nikhilpal2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<samp>
+   Visit <a href="https://nikhilpal2705.github.io">My Website</a> to know more about me.
+   <br/><br/>
+   <a href="https://t.me/nikhilpal2705"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+   <a href="https://twitter.com/nikhilpal2705"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>  
+</samp></p>
