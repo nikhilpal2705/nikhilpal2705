@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Nikhil%20Suryavanshi%20" alt="Nikhil Suryavanshi" width="1500" />
 <p align="center">
 Hi there 👋
   <br/><br/>
