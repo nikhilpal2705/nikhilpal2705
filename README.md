@@ -44,8 +44,11 @@
 
 **♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=20" 
+<p align="center"> <img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=20&theme=dark&ext=activity" 
          alt="Leetcode stats"/></p>
+         
+<p align="center"> <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" 
+         alt="GFG stats"/></p>
 <!-- ![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20) -->
 
 ***
