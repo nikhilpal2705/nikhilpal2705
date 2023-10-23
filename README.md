@@ -34,22 +34,19 @@
 ***
 
 **⚙️ &nbsp;GitHub Analytics**
+
 <p align="center">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpal2705&hide_border=true&theme=dark" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal2705&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
-
 ***
 
 **♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=activity" 
-         alt="Leetcode stats"/></p>
+<p align="center"> <a href="https://leetcode.com/nikhilpal2705"><img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
          
-<p align="center"> <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" 
-         alt="GFG stats"/></p>
-<!-- ![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20) -->
+<p align="center"> <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a></p>
 
 ***
 
@@ -58,7 +55,7 @@
 - Languages: &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 
 
 - Web Development: &nbsp;
@@ -79,5 +76,3 @@
 - Developer Tools: &nbsp;
   ![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
-***
