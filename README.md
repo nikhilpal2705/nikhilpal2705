@@ -65,6 +65,7 @@
 
 - Libraries & Frameworks: &nbsp;
   ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
