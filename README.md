@@ -59,9 +59,9 @@
 
 
 - Web Development: &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-blavk?style=flat-square&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 - Libraries & Frameworks: &nbsp;
   ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
