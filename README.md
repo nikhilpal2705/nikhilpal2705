@@ -36,7 +36,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 
 <p align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpal2705&hide_border=true&theme=dark" />
+        <img height="180em" src="https://github-readme-streak-stats-olq1.vercel.app?user=nikhilpal2705&theme=dark&hide_border=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal2705&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
@@ -59,9 +59,9 @@
 
 
 - Web Development: &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-blavk?style=flat-square&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 
 - Libraries & Frameworks: &nbsp;
   ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
