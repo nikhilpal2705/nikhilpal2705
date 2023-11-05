@@ -36,7 +36,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 
 <p align="center">
-        <img height="180em" src="https://github-readme-streak-stats-olq1.vercel.app?user=nikhilpal2705&theme=dark&hide_border=true" />
+        <img height="180em" src="https://streak-stats.demolab.com/?user=nikhilpal2705&theme=dark&hide_border=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal2705&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
