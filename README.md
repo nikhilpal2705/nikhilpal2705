@@ -13,7 +13,7 @@
     <a href="https://twitter.com/nikhilpal2705"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
     <br>
     <a href="https://leetcode.com/nikhilpal2705/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
     <a href="https://www.hackerrank.com/nikhilpal2705"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/nikhilpal2705"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/nikhilpal2705"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
@@ -31,7 +31,7 @@
 
 **♨️ &nbsp;DSA Analytics**
 <p align="center">
-    <a href="https://leetcode.com/nikhilpal2705"><img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/></a>
+    <a href="https://leetcode.com/nikhilpal2705"><img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode stats"/></a>
 </p>
          
 <p align="center">
@@ -60,7 +60,8 @@
 
 
 - Databases: &nbsp;
-![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=007ACC)
+![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=00FFFF)
+![mongoDB](https://img.shields.io/badge/-mongoDB-333333?style=flat&logo=mongodb)
 
 - Developer Tools: &nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
