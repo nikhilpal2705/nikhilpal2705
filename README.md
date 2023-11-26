@@ -66,4 +66,4 @@
 - Developer Tools: &nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)
