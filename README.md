@@ -37,8 +37,7 @@
 **🛠 &nbsp;Tech Stack**
 - Languages: &nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
 
 - Web Development: &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5)
@@ -48,16 +47,19 @@
 - Libraries & Frameworks: &nbsp;
 ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-
 
 - Databases: &nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=00FFFF)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-333333?style=flat&logo=mongodb)
 
-- Developer Tools: &nbsp;
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+- Tools: &nbsp;
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+
