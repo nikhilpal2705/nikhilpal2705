@@ -4,7 +4,7 @@
     <br>
     <a href="https://www.linkedin.com/in/nikhilpal2705/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/nikhilpal2705"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://twitter.com/nikhilpal2705"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+    <a href="https://x.com/nikhilpal2705"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
     <br>
     <a href="https://leetcode.com/nikhilpal2705/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
     <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
