@@ -29,7 +29,7 @@
 </p>
          
 <p align="center">
-    <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a>
+    <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/nikhilpal2705" alt="GFG stats"/></a>
 </p>
 
 ***
