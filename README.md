@@ -13,53 +13,63 @@
     <a href="https://www.codechef.com/users/nikhilpal2705"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 </p>
 
-***
+---
 
-**⚙️ &nbsp;GitHub Analytics**
+### 📊 GitHub Analytics
+
 <p align="center">
-        <img height="180em" src="https://github-readme-streak-stats-rust-zeta.vercel.app/?user=nikhilpal2705&theme=dark&hide_border=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal2705&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats-rust-zeta.vercel.app/?user=nikhilpal2705&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpal2705&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-***
+---
 
-**♨️ &nbsp;DSA Analytics**
+### 📈 DSA Analytics
+
 <p align="center">
-    <a href="https://leetcode.com/nikhilpal2705"><img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode stats"/></a>
+  <a href="https://leetcode.com/nikhilpal2705">
+    <img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode Stats" />
+  </a>
 </p>
-         
+
 <p align="center">
-    <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://gfgstatscard.vercel.app/nikhilpal2705" alt="GFG stats"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/">
+    <img src="https://gfgstatscard.vercel.app/nikhilpal2705" alt="GFG Stats" />
+  </a>
 </p>
 
-***
+---
 
-**🛠 &nbsp;Tech Stack**
-- Languages: &nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+### 🛠 Tech Stack
 
-- Web Development: &nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+<div align="center">
 
-- Libraries & Frameworks: &nbsp;
-![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
-![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+#### **💻 Languages**
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- Databases: &nbsp;
-![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=00FFFF)
-![mongoDB](https://img.shields.io/badge/-mongoDB-333333?style=flat&logo=mongodb)
+#### **🌐 Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Tools: &nbsp;
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+#### **🛠️ Libraries & Frameworks**
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+#### **📂 Databases**
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **🚀 Tools & Platforms**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
