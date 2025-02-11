@@ -27,16 +27,23 @@
 ### 📈 DSA Analytics
 
 <p align="center">
+  <p align="center"><strong style='font-size:24px;'>🚀 LeetCode</strong></p>
+</p>
+<p align="center">
   <a href="https://leetcode.com/nikhilpal2705">
     <img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode Stats" />
   </a>
 </p>
 
 <p align="center">
+  <p align="center"><strong style='font-size:24px;'>💡 GeeksforGeeks</strong></p>
+</p>
+<p align="center">
   <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/">
     <img src="https://gfgstatscard.vercel.app/nikhilpal2705" alt="GFG Stats" />
   </a>
 </p>
+
 
 ---
 
