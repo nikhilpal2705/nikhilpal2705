@@ -40,12 +40,9 @@
 
 ## GitHub Analytics
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats-rust-zeta.vercel.app/?user=nikhilpal2705&theme=dark&hide_border=true"
-    alt="GitHub streak stats"
-  />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-streak-stats-red-sigma-50.vercel.app/?user=nikhilpal2705&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats-gilt-zeta-14.vercel.app/api/top-langs/?username=nikhilpal2705&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="GitHub streak stats" />
 </div>
 
 ## DSA Analytics
